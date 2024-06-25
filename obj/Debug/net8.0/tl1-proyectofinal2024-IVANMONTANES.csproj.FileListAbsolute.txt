@@ -1,0 +1,15 @@
+C:\ProyectoFinal\tl1-proyectofinal2024-IVANMONTANES\bin\Debug\net8.0\tl1-proyectofinal2024-IVANMONTANES.exe
+C:\ProyectoFinal\tl1-proyectofinal2024-IVANMONTANES\bin\Debug\net8.0\tl1-proyectofinal2024-IVANMONTANES.deps.json
+C:\ProyectoFinal\tl1-proyectofinal2024-IVANMONTANES\bin\Debug\net8.0\tl1-proyectofinal2024-IVANMONTANES.runtimeconfig.json
+C:\ProyectoFinal\tl1-proyectofinal2024-IVANMONTANES\bin\Debug\net8.0\tl1-proyectofinal2024-IVANMONTANES.dll
+C:\ProyectoFinal\tl1-proyectofinal2024-IVANMONTANES\bin\Debug\net8.0\tl1-proyectofinal2024-IVANMONTANES.pdb
+C:\ProyectoFinal\tl1-proyectofinal2024-IVANMONTANES\obj\Debug\net8.0\tl1-proyectofinal2024-IVANMONTANES.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectoFinal\tl1-proyectofinal2024-IVANMONTANES\obj\Debug\net8.0\tl1-proyectofinal2024-IVANMONTANES.AssemblyInfoInputs.cache
+C:\ProyectoFinal\tl1-proyectofinal2024-IVANMONTANES\obj\Debug\net8.0\tl1-proyectofinal2024-IVANMONTANES.AssemblyInfo.cs
+C:\ProyectoFinal\tl1-proyectofinal2024-IVANMONTANES\obj\Debug\net8.0\tl1-proyectofinal2024-IVANMONTANES.csproj.CoreCompileInputs.cache
+C:\ProyectoFinal\tl1-proyectofinal2024-IVANMONTANES\obj\Debug\net8.0\tl1-proyectofinal2024-IVANMONTANES.dll
+C:\ProyectoFinal\tl1-proyectofinal2024-IVANMONTANES\obj\Debug\net8.0\refint\tl1-proyectofinal2024-IVANMONTANES.dll
+C:\ProyectoFinal\tl1-proyectofinal2024-IVANMONTANES\obj\Debug\net8.0\tl1-proyectofinal2024-IVANMONTANES.pdb
+C:\ProyectoFinal\tl1-proyectofinal2024-IVANMONTANES\obj\Debug\net8.0\tl1-proyectofinal2024-IVANMONTANES.genruntimeconfig.cache
+C:\ProyectoFinal\tl1-proyectofinal2024-IVANMONTANES\obj\Debug\net8.0\ref\tl1-proyectofinal2024-IVANMONTANES.dll
+C:\ProyectoFinal\tl1-proyectofinal2024-IVANMONTANES\obj\Debug\net8.0\tl1-proyectofinal2024-IVANMONTANES.sourcelink.json

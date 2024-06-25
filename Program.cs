@@ -1,7 +1,17 @@
-﻿using personajes;
+﻿//<>//
+using personajes;
 int numeroPersonaje = 1;
-Personaje personaje1 = new Personaje(new Caracteristicas(numeroPersonaje),new Datos(numeroPersonaje));
+//lista de personajes vivos//
+List<Personaje> listaPersonajes = new List<Personaje>();
+listaPersonajes.Add(fabricaPersonajes.generarPersonaje(numeroPersonaje));
 numeroPersonaje++;
-Personaje personaje2 = new Personaje(new Caracteristicas(numeroPersonaje),new Datos(numeroPersonaje));
-personaje1.mostrarPersonaje();
-personaje2.mostrarPersonaje();
+listaPersonajes.Add(fabricaPersonajes.generarPersonaje(numeroPersonaje));
+numeroPersonaje++;
+listaPersonajes.Add(fabricaPersonajes.generarPersonaje(numeroPersonaje));
+numeroPersonaje++;
+listaPersonajes.Add(fabricaPersonajes.generarPersonaje(numeroPersonaje));
+numeroPersonaje++;
+listaPersonajes.Add(fabricaPersonajes.generarPersonaje(numeroPersonaje));
+foreach(Personaje personaje in listaPersonajes){
+    personaje.mostrarPersonaje();
+}
